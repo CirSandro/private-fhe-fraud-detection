@@ -232,6 +232,14 @@ To make predictions using the client API, follow these steps:
 
    Here, `0` could represent a non-fraudulent transaction, and `1` could represent a fraudulent one, depending on your model's encoding.
 
+### Using the HuggingFace Space
+
+The PFEE-ZAMA project is also available on HuggingFace Spaces. You can directly use the model for fraud detection via the following link:
+
+[HuggingFace Space: PFEE-ZAMA](https://huggingface.co/spaces/Tenefix/PFEE-ZAMA)
+
+This interface leverages a compiled Fully Homomorphic Encryption (FHE) model to ensure data privacy while detecting fraudulent transactions.
+
 ## Continuous Integration
 
 PFEE-ZAMA utilizes GitHub Actions for continuous integration to ensure code quality and maintainability.
