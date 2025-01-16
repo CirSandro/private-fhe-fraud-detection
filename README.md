@@ -23,7 +23,7 @@
 
 ## Introduction
 
-As the use of sensitive personal data in machine learning models becomes increasingly prevalent, ensuring data privacy and security is paramount. cd "Private FHE Fraud Detection" addresses these concerns by leveraging advanced techniques such as Privacy-Preserving Machine Learning (PPML) and Fully Homomorphic Encryption (FHE). This project enables secure predictions without compromising the confidentiality of user data.
+As the use of sensitive personal data in machine learning models becomes increasingly prevalent, ensuring data privacy and security is paramount. "Private FHE Fraud Detection" addresses these concerns by leveraging advanced techniques such as Privacy-Preserving Machine Learning (PPML) and Fully Homomorphic Encryption (FHE). This project enables secure predictions without compromising the confidentiality of user data.
 
 ## About This Project
 
