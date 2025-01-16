@@ -1,4 +1,4 @@
-# PFEE-ZAMA
+# Private FHE Fraud Detection
 
 ## Table of Contents
 
@@ -23,13 +23,13 @@
 
 ## Introduction
 
-As the use of sensitive personal data in machine learning models becomes increasingly prevalent, ensuring data privacy and security is paramount. PFEE-ZAMA addresses these concerns by leveraging advanced techniques such as Privacy-Preserving Machine Learning (PPML) and Fully Homomorphic Encryption (FHE). This project enables secure predictions without compromising the confidentiality of user data.
+As the use of sensitive personal data in machine learning models becomes increasingly prevalent, ensuring data privacy and security is paramount. cd "Private FHE Fraud Detection" addresses these concerns by leveraging advanced techniques such as Privacy-Preserving Machine Learning (PPML) and Fully Homomorphic Encryption (FHE). This project enables secure predictions without compromising the confidentiality of user data.
 
 ## About This Project
 
 ### Project Overview
 
-PFEE-ZAMA is a capstone project (Projet de Fin d'Études Encadré) developed in collaboration with Zama, a leader in homomorphic encryption. The primary objective is to explore and implement Privacy-Preserving Machine Learning (PPML) and Fully Homomorphic Encryption (FHE) using Concrete ML, an open-source library developed by Zama. The project focuses on creating a machine learning model capable of making secure predictions while ensuring data privacy.
+"Private FHE Fraud Detection" is a capstone project developed in collaboration with Zama, a leader in homomorphic encryption. The primary objective is to explore and implement Privacy-Preserving Machine Learning (PPML) and Fully Homomorphic Encryption (FHE) using Concrete ML, an open-source library developed by Zama. The project focuses on creating a machine learning model capable of making secure predictions while ensuring data privacy.
 
 ### Project Goals
 
@@ -59,7 +59,7 @@ PFEE-ZAMA is a capstone project (Projet de Fin d'Études Encadré) developed in 
 
 ### Prerequisites
 
-Before deploying PFEE-ZAMA, ensure that you have the following installed on your system:
+Before deploying "Private FHE Fraud Detection", ensure that you have the following installed on your system:
 
 - **Python**: Version 3.10.12
 - **pip**: Python package installer
@@ -71,8 +71,8 @@ Before deploying PFEE-ZAMA, ensure that you have the following installed on your
 1. **Clone the Repository**
 
    ```sh
-   git clone git@github.com:CirSandro/PFEE-ZAMA.git
-   cd PFEE-ZAMA
+   git clone git@github.com:CirSandro/private-fhe-fraud-detection.git
+   cd private-fhe-fraud-detection/
    ```
 
 2. **Install Dependencies**
@@ -104,7 +104,7 @@ This will execute the `models/FHEModel.py` script, which:
 
 ### Running the Server and Client
 
-PFEE-ZAMA follows a client-server architecture where the server handles encrypted prediction requests, and the client manages user interactions and data encryption.
+"Private FHE Fraud Detection" follows a client-server architecture where the server handles encrypted prediction requests, and the client manages user interactions and data encryption.
 
 1. **Run the Server**
 
@@ -234,7 +234,7 @@ To make predictions using the client API, follow these steps:
 
 ## Continuous Integration
 
-PFEE-ZAMA utilizes GitHub Actions for continuous integration to ensure code quality and maintainability.
+"Private FHE Fraud Detection" utilizes GitHub Actions for continuous integration to ensure code quality and maintainability.
 
 ### Configuration
 
@@ -273,7 +273,7 @@ pip install -r requirements.txt
 The project uses the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) dataset from Kaggle. The dataset contains transactions made by credit cards in September 2013 by European cardholders. It presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions.
 
 
-This setup ensures that you can deploy the PFEE-ZAMA system efficiently and start making secure predictions with ease.
+This setup ensures that you can deploy the "Private FHE Fraud Detection" system efficiently and start making secure predictions with ease.
 
 ---
 
