@@ -148,6 +148,13 @@ When a user makes a prediction via the API client, the following workflow occurs
 
 This workflow ensures that at no point is the sensitive user data exposed in an unencrypted form, maintaining data privacy and security throughout the process.
 
+### Flow
+
+<p align="center">
+    <img src="Img/schema.png" alt="Flow Schema" width="75%">
+</p>
+
+
 ## Usage
 
 ### Using the Makefile
