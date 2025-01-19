@@ -15,7 +15,7 @@ sys.path.insert(0, os.path.abspath("../src"))
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "PFEE-ZAMA"  # pylint: disable=C0103
+project = "Private-FHE-fraud-detection"  # pylint: disable=C0103
 copyright = "2024, CARDI-FERR\
     ONI-GIRAUD-HOLARD-MOYO-SKALLI"  # pylint: disable=C0103, W0622, redefined-builtin, invalid-name
 author = "CARDI-FERRONI-GIRAUD-HOLARD-MOYO-SKALLI"  # pylint: disable=C0103

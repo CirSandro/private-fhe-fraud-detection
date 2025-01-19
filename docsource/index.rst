@@ -1,25 +1,31 @@
-.. PFEE-ZAMA documentation master file, created by
+.. Private-FHE-fraud-detection documentation master file, created by
    sphinx-quickstart on Wed Sep 25 23:31:57 2024.
 
-Welcome to PFEE-ZAMA's documentation!
+Welcome to Private-FHE-fraud-detection's documentation!
 =====================================
+
+.. image:: https://readthedocs.org/projects/pfee-zama/badge/?version=latest
+   :target: https://pfee-zama.readthedocs.io/en/latest/
+   :alt: Documentation Status
 
 Introduction
 ============
-PFEE-ZAMA is a project aiming to showcase ZAMA's tool Concrete-ML with the case of detecting credit card fraud.
+Private-FHE-fraud-detection is a project aiming to showcase ZAMA's tool Concrete-ML with the case of detecting credit card fraud.
 
-Table of contents
-==================
+
+Contents:
+---------
 
 .. toctree::
-   :maxdepth: 6
-   :caption: Contents:
+   :maxdepth: 2
 
+   introduction
+   setup
+   usage
+   workflow
+   ci
    modules
-
-Index and tables
-=================
 
 * :ref:`genindex`
 * :ref:`modindex`
-* :ref:`search
+* :ref:`search`
