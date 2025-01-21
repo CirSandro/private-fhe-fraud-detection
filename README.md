@@ -243,7 +243,7 @@ To make predictions using the client API, follow these steps:
 
 The PFEE-ZAMA project is also available on HuggingFace Spaces. You can directly use the model for fraud detection via the following link:
 
-[HuggingFace Space: PFEE-ZAMA](https://huggingface.co/spaces/Tenefix/PFEE-ZAMA)
+[HuggingFace Space: PFEE-ZAMA](https://huggingface.co/spaces/EPITA-PFEE/private-fhe-fraud-detection)
 
 This interface leverages a compiled Fully Homomorphic Encryption (FHE) model to ensure data privacy while detecting fraudulent transactions.
 
